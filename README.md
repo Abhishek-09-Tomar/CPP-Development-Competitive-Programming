@@ -40,9 +40,9 @@ I focus on building efficient systems and solving complex algorithmic challenges
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Insert your LinkedIn Link]
-- **Portfolio:** [Insert your Website Link, or delete this line]
-- **Email:** [Insert your Email]
+- **LinkedIn:** [www.linkedin.com/in/abhishek-tomar-7aa29127b]
+- **Portfolio:** [https://abhishek-09-tomar.github.io/portfolio-website/]
+- **Email:** [abhishek9720086@gmail.com]
 
 ---
 *"The best way to predict the future is to code it."*
