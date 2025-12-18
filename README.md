@@ -1,23 +1,27 @@
-# Abhishek Tomar
+# <h1 align="center">Abhishek Tomar</h1>
 
 <p align="center">
-  <b>C++ Engineer • Competitive Programmer • Aspiring Product / FAANG-level Software Engineer</b><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=C%2B%2B+Engineer+%7C+Competitive+Programmer;MAANG-Ready+Systems+%26+DSA+Enthusiast;Building+Fast%2C+Correct%2C+Scalable+Software" />
+</p>
+
+<p align="center">
+  <b>C++ Engineer • Competitive Programmer • Aspiring Product / MAANG-level Software Engineer</b><br/>
   Building performance-critical systems with strong algorithmic foundations
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-tomar-7aa29127b"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://leetcode.com/u/Abhishek_Tomar_99/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://codeforces.com/profile/Abhishek_Tomar"><img src="https://img.shields.io/badge/Codeforces-Competitive-blueviolet?style=for-the-badge&logo=codeforces" /></a>
-  <a href="https://abhishek-09-tomar.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://leetcode.com/u/Abhishek_Tomar_99/"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/Abhishek_Tomar"><img src="https://img.shields.io/badge/Codeforces-Competitive-1F8ACB?style=for-the-badge&logo=codeforces" /></a>
+  <a href="https://abhishek-09-tomar.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Live-22C55E?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
 ---
 
 ## 👋 About Me
-I am a **C++ developer and competitive programmer** with a strong focus on **Data Structures, Algorithms, and system-level problem solving**. I am intentionally preparing for **FAANG / top product engineering roles** by combining algorithmic rigor, modern C++ practices, and production-style workflows.
+I am a **C++ developer and competitive programmer** focused on **Data Structures, Algorithms, and system-level problem solving**. I am intentionally preparing for **MAANG / top product engineering roles** by combining algorithmic rigor, modern C++ practices, and production-grade workflows.
 
-My work emphasizes **correctness, performance, readability, and automation**—the same qualities expected in large-scale engineering teams.
+My work emphasizes **correctness, performance, readability, testing, and automation**—the same standards expected in large-scale engineering teams.
 
 ---
 
@@ -52,8 +56,8 @@ My work emphasizes **correctness, performance, readability, and automation**—t
 
 ### Phase 1: Algorithmic Foundations
 - Competitive programming (Codeforces, LeetCode, CodeChef)
-- Strong DSA template library
-- Time/space complexity discipline
+- Strong reusable DSA template library
+- Time and space complexity discipline
 
 ### Phase 2: Systems & Low-Level Engineering
 - Memory layout and performance
@@ -93,28 +97,36 @@ CPP-Development-Competitive-Programming/
 - Competitive programming with engineering discipline
 - A personal, reusable DSA library
 - Project-oriented C++ codebases
-- Automated CI, testing, and formatting
+- Automated CI, testing, formatting, and multi-compiler builds
 
-> This repository is designed to look and behave like an **industry codebase**, not a dump of solutions.
+> This repository is designed to look and behave like an **industry-grade codebase**, not a dump of solutions.
 
 ---
 
 ## ⚙️ CI / Quality Gates
 
 <p align="left">
-  <img src="https://img.shields.io/github/actions/workflow/status/Abhishek-09-Tomar/CPP-Development-Competitive-Programming/cpp.yml?style=for-the-badge" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Abhishek-09-Tomar/CPP-Development-Competitive-Programming/advanced-ci.yml?style=for-the-badge" />
 </p>
 
 **Automated checks include:**
-- Multi-compiler builds (GCC + Clang)
+- GCC and Clang build matrix
 - C++20 compliance
 - Unit tests (GoogleTest)
-- Code formatting validation
+- Code formatting validation (clang-format)
 - Separate workflows for DSA and Projects
 
 ---
 
-## 📊 GitHub & Coding Analytics
+## 📊 Live Coding & GitHub Analytics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Abhishek_Tomar_99?theme=dark&font=Fira%20Code" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhishek_Tomar&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-09-Tomar&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="165" />
@@ -130,7 +142,7 @@ CPP-Development-Competitive-Programming/
 ## 🎯 Current Focus
 - Advanced competitive programming
 - High-performance C++ systems
-- FAANG-style DSA + systems preparation
+- MAANG-style DSA and systems preparation
 - Writing clean, review-ready, testable code
 
 ---
@@ -145,5 +157,5 @@ CPP-Development-Competitive-Programming/
 ---
 
 <p align="center">
-  <i>"Strong engineers are built through discipline, depth, and deliberate practice."</i>
+  <i>Strong engineers are built through discipline, depth, and deliberate practice.</i>
 </p>
